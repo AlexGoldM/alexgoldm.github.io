@@ -16,4 +16,4 @@ das John Connor ihm in der Zukunft vor der Abreise gegeben hat.
 # Das ist sein Motto
 > Hasta la vista baby!
 
-![Terminator](https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Terminator-2-judgement-day.jpg/220px-Terminator-2-judgement-day.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Terminator-2-judgement-day.jpg/220px-Terminator-2-judgement-day.jpg"
