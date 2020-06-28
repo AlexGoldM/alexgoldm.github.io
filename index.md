@@ -1,4 +1,3 @@
-
 # Terminator - ein Android aus der Zukuft
 
 Der durch eine Zeitmaschine nackt ins Jahr 1984 gereiste Terminator verschafft sich Kleidung,
@@ -15,8 +14,6 @@ das John Connor ihm in der Zukunft vor der Abreise gegeben hat.
 * Typ: Android
 
 # Das ist sein Motto
-
 > Hasta la vista baby!
-
 
 ![Terminator](https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Terminator-2-judgement-day.jpg/220px-Terminator-2-judgement-day.jpg)
