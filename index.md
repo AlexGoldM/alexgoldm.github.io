@@ -14,4 +14,4 @@ das John Connor ihm in der Zukunft vor der Abreise gegeben hat.
 * Typ: Android
 
 # Das ist sein Motto
-Hasta la vista baby!
+> Hasta la vista baby!
